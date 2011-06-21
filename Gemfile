@@ -1,5 +1,5 @@
 source :rubygems
-gem "rails", "~>3.0.0"
+gem "rails", "~>3.1.0.rc4"
 
 group :development do
   gem "jeweler"
